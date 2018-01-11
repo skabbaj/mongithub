@@ -1,2 +1,2 @@
 from ubuntu
-cmd "echo toto"
+cmd "echo toto" > /tmp/echo.txt
