@@ -1,2 +1,2 @@
-from ubuntu
-cmd "echo toto" > /tmp/echo.txt
+FROM ubuntu
+RUN "echo toto" > /tmp/echo.txt
