@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN "echo toto" > /tmp/echo.txt
+RUN "echo toto" > /tmp/echo.txt_$data
